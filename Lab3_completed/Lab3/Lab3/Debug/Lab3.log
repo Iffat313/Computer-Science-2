@@ -1,0 +1,2 @@
+﻿textio.obj : error LNK2005: "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class Text &)" (??5@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV01@AAVText@@@Z) already defined in Text.obj
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Debug\Lab3.exe : fatal error LNK1169: one or more multiply defined symbols found

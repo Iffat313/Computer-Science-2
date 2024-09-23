@@ -1,0 +1,26 @@
+﻿  BlogEntry.cpp
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Date.h(13,40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'BlogEntry.cpp')
+  
+  Date.cpp
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Date.h(13,40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'Date.cpp')
+  
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Date.cpp(12,15): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Date.cpp(29,45): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  test2.cpp
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Date.h(13,40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  (compiling source file 'test2.cpp')
+  
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\test2.cpp(142,23): warning C4101: 'year2': unreferenced local variable
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\test2.cpp(142,9): warning C4101: 'day2': unreferenced local variable
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\test2.cpp(142,15): warning C4101: 'month2': unreferenced local variable
+  Text.cpp
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Text.cpp(13,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Text.cpp(22,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Text.cpp(34,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Text.cpp(54,8): warning C4018: '>': signed/unsigned mismatch
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Text.cpp(70,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Text.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\iffat\Desktop\LAB-CS2200\Lab3_template\Lab3\Lab3\Text.cpp(95,20): warning C4018: '<': signed/unsigned mismatch
+  textio.cpp
